@@ -1,6 +1,8 @@
 ## 该程序可用于股票分析与回测模拟
 数据源接口：tushare
+
 AI助手接口：deepseek
+
 使用方法：
 
           1.输入API key。
