@@ -1,0 +1,11 @@
+{
+    "backtest": {
+        "cash": 100000.0,
+        "commission": 0.001,
+        "slippage_perc": 0.0
+    },
+    "api_keys": {
+        "tushare": "",
+        "openai": ""
+    }
+}
